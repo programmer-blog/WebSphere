@@ -466,6 +466,54 @@ b {
     color: #fff;
 }
 
-.team a:hover{
+.team i:hover{
     background-color: #8cc36e;
+}
+
+.contacts {
+    padding: 50px 0px 80px;
+    text-align: center;
+    background-color: #bf5353;
+}
+
+.contects p {
+    padding-bottom: 70px;
+    color: #fff;
+    margin: 20px 0px 20px;
+}
+
+.contacts .input-group {
+    margin-bottom: 25px;
+}
+
+.contacts .form-control {
+    border-radius: 0px !important;
+}
+
+.contacts span {
+    border-radius: 0px !important;
+};
+
+    
+.contacts .btn {
+    margin-top: 5px !important;
+    border-radius: 0 !important;
+    width: 100% !important;
+    font-size: 15px !important;
+    background-color: #f08080 !important;
+    color: white !important; /* Add text color if needed */
+}
+
+.btn-submit {
+    margin-top: 5px !important;
+    border-radius: 0 !important;
+    width: 100% !important;
+    font-size: 15px !important;
+    background-color: #f08080 !important;
+    color: white !important;
+}
+
+.btn-submit:hover {
+    background-color: #a85959 !important;
+    color: #fff !important;
 }
