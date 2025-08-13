@@ -517,3 +517,56 @@ b {
     background-color: #a85959 !important;
     color: #fff !important;
 }
+
+
+.footer {
+    padding: 30px;
+    color: #cccccc;
+    background-color: #222222;
+}
+
+.footer h4{
+    color: #cccccc;
+}
+
+.footer .fas{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.footer .social {
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    color: #eee;
+}
+
+.footer input{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    border: none;
+    background-color: #cccccc;
+}
+
+
+.footer button {
+    padding: 10px 5px 10px;
+    margin: 3px 0px 0px 5px;
+}
+
+@media(max-width: 768px) {
+    .footer .btn {
+        margin: 2px 0px 0px 5px;
+    }
+}
+
+@media (max-width: 378px) {
+     .footer .btn {
+        margin: 8px 10px 10px 5px;
+    }
+}
