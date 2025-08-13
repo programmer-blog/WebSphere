@@ -28,18 +28,19 @@ It features dedicated sections for **Products**, **Team**, **Clients**, and **Co
 1. Clone the repository:
    ```bash
    git clone git@github.com:programmer-blog/WebSphere.git
+   ```
 
 ### Navigate into the project folder:
 
 ```bash
   cd websphere
-
+```
 ### Open index.html in your browser or use a local server:
 
 # Using Python's built-in server
 ```bash
   python -m http.server 8000
-
+```
 ### Animations
  
   - Animations are powered by WOW.js and Animate.css:
