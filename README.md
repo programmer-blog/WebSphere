@@ -23,10 +23,6 @@ It features dedicated sections for **Products**, **Team**, **Clients**, and **Co
 - Easy to customize and extend
 
 ---
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -37,3 +33,20 @@ It features dedicated sections for **Products**, **Team**, **Clients**, and **Co
 1. Clone the repository:
    ```bash
    git clone git@github.com:programmer-blog/WebSphere.git
+
+### Navigate into the project folder:
+
+cd websphere
+
+### Open index.html in your browser or use a local server:
+
+# Using Python's built-in server
+python -m http.server 8000
+
+### Animations
+ 
+  - Animations are powered by WOW.js and Animate.css:
+  - Elements fade, bounce, and slide in on scroll
+  - Controlled with data-wow-delay attributes for staggered effects
+  - Easily customizable in animate.min.css
+
