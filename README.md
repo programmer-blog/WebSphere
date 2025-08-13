@@ -5,11 +5,6 @@ It features dedicated sections for **Products**, **Team**, **Clients**, and **Co
 
 ---
 
-## 🌐 Demo
-[Live Preview](#) <!-- Replace # with your deployed link if available -->
-
----
-
 ## 📌 Features
 - Fully responsive design with **Bootstrap 5**
 - Clean and modern layout
@@ -36,12 +31,14 @@ It features dedicated sections for **Products**, **Team**, **Clients**, and **Co
 
 ### Navigate into the project folder:
 
-cd websphere
+```bash
+  cd websphere
 
 ### Open index.html in your browser or use a local server:
 
 # Using Python's built-in server
-python -m http.server 8000
+```bash
+  python -m http.server 8000
 
 ### Animations
  
